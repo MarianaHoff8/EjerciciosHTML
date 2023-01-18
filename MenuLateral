@@ -1,0 +1,31 @@
+<style>
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin-top: 2px;
+  }
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+</style>
+<body>
+  <ul>
+    <li><a href="https://www.esri.es/" target="_blank">La página de Esri España</a></li>
+    <li><a href="https://www.esri.es/es-es/cursos-y-master/masters-esri/mastergis-presencial" target="_blank">La página del MásterGIS Presencial</a></li>
+    <li><a href="https://www.esri.es/es-es/cursos-y-master/masters-esri/mastergis-online" target="_blank">La página del MásterGIS Online</a></li>
+    <li><a href="https://www.esri.es/es-es/cursos-y-master/masters-esri/experto-gis" target="_blank">La página del Máster de Experto en Desarrollo</a></li>
+  </ul>
+</body
